@@ -1,0 +1,1 @@
+Aqui, você acompanhará, como no projeto SOR, as definições importantes para conseguir acompanhar a interpretação correta da implementação do código.
